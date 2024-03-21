@@ -1,0 +1,14 @@
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\bin\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.exe
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\bin\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.deps.json
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\bin\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.runtimeconfig.json
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\bin\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.dll
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\bin\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.pdb
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.dll
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\refint\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.dll
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.pdb
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\GeekBrains\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya\obj\Debug\net8.0\ref\14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.dll

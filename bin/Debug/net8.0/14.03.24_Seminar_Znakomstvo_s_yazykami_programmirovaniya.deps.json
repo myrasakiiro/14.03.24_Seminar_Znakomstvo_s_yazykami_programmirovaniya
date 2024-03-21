@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya/1.0.0": {
+        "runtime": {
+          "14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
