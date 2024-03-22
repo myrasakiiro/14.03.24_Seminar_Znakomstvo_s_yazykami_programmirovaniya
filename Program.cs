@@ -89,6 +89,7 @@ a = -3, b = 9 => нет
     int rigtDigit = number % 10;
     int result = leftDigit + rigtDigit;
     System.Console.Write(number + " => " + result);
+    // System.Console.Write($"{number} => {number / 100 + number % 10 }");
  }
  else
  {
