@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58d700a833d716b04ca2963262cafdac374f4330")]
 [assembly: System.Reflection.AssemblyProductAttribute("14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14.03.24_Seminar_Znakomstvo_s_yazykami_programmirovaniya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
