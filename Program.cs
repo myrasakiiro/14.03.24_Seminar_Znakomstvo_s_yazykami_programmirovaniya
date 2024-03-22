@@ -7,6 +7,12 @@
 // сравнение (==)
 //while цикл
 /*
+
+
+
+
+
+
 Напишите программу, которая на вход
 принимает два целых числа и проверяет,
 является ли первое число квадратом второго.
@@ -32,6 +38,10 @@ a = -3, b = 9 => нет
 // {
 //     System.Console.WriteLine($"a = {firstNumber}, b = {secondNumber} => нет");
 // }
+
+
+
+
 
 
 // Напишите программу, которая на вход принимает
@@ -61,12 +71,21 @@ a = -3, b = 9 => нет
 //     System.Console.Write(i + " ");
 // }
 
+
+
+
+
+
+
+
 // Напишите программу, которая принимает на вход
 // трёхзначное целое число и на выходе показывает сумму
 // первой и последней цифры этого числа.
 // 456 => 10
 // 782 => 9
 // 918 => 17
+
+
 
 //Целочисленное деление и деление по модулю
 // int a = 7;
@@ -80,18 +99,23 @@ a = -3, b = 9 => нет
 
 
 
- System.Console.Write("Введите трехзначное число: ");
- int number = Convert.ToInt32(Console.ReadLine());
 
- if(number > 99 && number < 1000)  //двойной знак амперстанта (&&) - логическое "и"
- {
-    int leftDigit = number / 100;
-    int rigtDigit = number % 10;
-    int result = leftDigit + rigtDigit;
-    System.Console.Write(number + " => " + result);
-    // System.Console.Write($"{number} => {number / 100 + number % 10 }");
- }
- else
- {
-    System.Console.Write("Вы вели не трехзначное число!");
- }
+//  System.Console.Write("Введите трехзначное число: ");
+//  int number = Convert.ToInt32(Console.ReadLine());
+
+//  if(number > 99 && number < 1000)  //двойной знак амперстанта (&&) - логическое "и"
+//  {
+//     int leftDigit = number / 100;
+//     int rigtDigit = number % 10;
+//     int result = leftDigit + rigtDigit;
+//     System.Console.Write(number + " => " + result);
+//     // System.Console.Write($"{number} => {number / 100 + number % 10 }");
+//  }
+//  else
+//  {
+//     System.Console.Write("Вы вели не трехзначное число!");
+//  }
+
+
+
+// Подготовка к дз
