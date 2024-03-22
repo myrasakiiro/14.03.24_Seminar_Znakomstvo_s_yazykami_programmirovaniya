@@ -69,7 +69,6 @@ a = -3, b = 9 => нет
 // 918 => 17
 
 //Целочисленное деление и деление по модулю
-
 // int a = 7;
 // int b = 2;
 // System.Console.Write(a / b);
@@ -78,5 +77,20 @@ a = -3, b = 9 => нет
 // System.Console.Write(a % b);
 // // "%" - деление по модулю
 
- int num = 456;
- System.Console.Write();
+
+
+
+ System.Console.Write("Введите трехзначное число: ");
+ int number = Convert.ToInt32(Console.ReadLine());
+
+ if(number > 99 && number < 1000)  //двойной знак амперстанта (&&) - логическое "и"
+ {
+    int leftDigit = number / 100;
+    int rigtDigit = number % 10;
+    int result = leftDigit + rigtDigit;
+    System.Console.Write(number + " => " + result);
+ }
+ else
+ {
+    System.Console.Write("Вы вели не трехзначное число!");
+ }
